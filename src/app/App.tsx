@@ -18,7 +18,7 @@ export class App extends React.Component<AppProps, AppState> {
     public render() {
         return (
             <div>
-                <h2>Counter: {this.state.count}</h2>
+                <h2 className="counter">Counter: {this.state.count}</h2>
                 <button onClick={this.onAddButtonClick}>+</button>
                 <button onClick={this.onDecrementButtonClick}>-</button>
                 {this.state.count > 10 ?

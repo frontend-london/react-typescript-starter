@@ -9,3 +9,11 @@ html {
 *:after {
   box-sizing: inherit;
 }
+
+.counter {
+  padding-left: 30px;
+  background-image: url('../../public/images/counter.png');
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
