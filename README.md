@@ -1,3 +1,4 @@
 # react-typescript-starter
 
-Empty project using React with TypeScript and Webpack
+React starter project configured with TypeScript, SASS and Webpack.
+Demo version of project is available at <http://enside.pl/react-typescript-starter/>
